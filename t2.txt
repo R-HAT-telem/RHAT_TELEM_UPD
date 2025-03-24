@@ -1,0 +1,5 @@
+TODO:
+- compare uptime drift across nodes
+- run cron timing test on rhel7 images
+- schedule perf_metrics_rhel7.csv collector
+...
