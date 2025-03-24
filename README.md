@@ -13,7 +13,8 @@ This repo contains some tooling and scripts for lightweight telemetry sync from 
 
 ## Structure
 
-- `cmd.txt` — placeholder for current command set or state signal
+- `t2.txt` — placeholder for current command set or state signal
+- `Telemetry/` — Safe, tested and production friendly script for telemtry gathering
 - `node_updates/` — directory for future node-to-repo sync testing
 - `README.md` — you're reading it
 
