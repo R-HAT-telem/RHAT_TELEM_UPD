@@ -1,0 +1,11 @@
+{
+  "hostname": "rhel-edge-node-01",
+  "uptime": 84123,
+  "loadavg": [0.43, 0.33, 0.27],
+  "last_checkin": "2025-03-28T09:15:42Z",
+  "services": {
+    "sshd": "active",
+    "httpd": "inactive",
+    "rhsmcertd": "active"
+  }
+}
