@@ -1,0 +1,2 @@
+rhel-edge-node-01 uptime:
+ 09:11:33 up 68 days,  3:52,  1 user,  load average: 0.35, 0.41, 0.39
